@@ -1,0 +1,6 @@
+{
+  "name": "Ramp Walk 2026 Event Management System",
+  "description": "Professional, secure event scoring, nominee selection, projector stage display, and final voting system for Ramp Walk 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

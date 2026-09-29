@@ -1,0 +1,465 @@
+{
+  "settings": {
+    "eventName": "Ramp Walk 2026",
+    "collegeName": "Apex Institute of Engineering & Technology",
+    "eventDate": "October 15, 2026",
+    "eventTime": "06:00 PM onwards",
+    "eventLocation": "Grand Auditorium, Main Campus",
+    "eventLogo": "",
+    "eventHeading": "Annual Cultural Fest & Fashion Extravaganza",
+    "round1Name": "Round 1: The Ramp Walk",
+    "round2Name": "Round 2: The Talent Round",
+    "titles": {
+      "boy1": "Mr. Fresher",
+      "boy2": "Mr. Handsome",
+      "boy3": "Mr. Perfect",
+      "girl1": "Miss Fresher",
+      "girl2": "Miss Beautiful",
+      "girl3": "Miss Perfect"
+    },
+    "stageText": "Welcome to Ramp Walk 2026 — Glamour, Poise & Talent",
+    "votingInstructions": "Vote for exactly 1 Boy and 1 Girl. One vote per device.",
+    "votingStatus": "ACTIVE",
+    "round2Locked": false,
+    "finalResultsLocked": false,
+    "stageKey": "stage2026"
+  },
+  "participants": [
+    {
+      "id": "STU-B-101",
+      "name": "Rahul Sharma",
+      "gender": "BOY",
+      "chestNumber": 11,
+      "branch": "Computer Science Engineering"
+    },
+    {
+      "id": "STU-B-102",
+      "name": "Aman Verma",
+      "gender": "BOY",
+      "chestNumber": 14,
+      "branch": "CSE"
+    },
+    {
+      "id": "STU-B-103",
+      "name": "Rohit Deshmukh",
+      "gender": "BOY",
+      "chestNumber": 17,
+      "branch": "Mechanical Engineering"
+    },
+    {
+      "id": "STU-B-104",
+      "name": "Kabir Malhotra",
+      "gender": "BOY",
+      "chestNumber": 21,
+      "branch": "Civil Engineering"
+    },
+    {
+      "id": "STU-B-105",
+      "name": "Devendra Patel",
+      "gender": "BOY",
+      "chestNumber": 24,
+      "branch": "Electrical Engineering"
+    },
+    {
+      "id": "STU-B-106",
+      "name": "Arjun Singhania",
+      "gender": "BOY",
+      "chestNumber": 29,
+      "branch": "BCA"
+    },
+    {
+      "id": "STU-B-107",
+      "name": "Vikramaditya Roy",
+      "gender": "BOY",
+      "chestNumber": 33,
+      "branch": "CSE"
+    },
+    {
+      "id": "STU-B-108",
+      "name": "Siddharth Nair",
+      "gender": "BOY",
+      "chestNumber": 38,
+      "branch": "Computer Science Engineering"
+    },
+    {
+      "id": "STU-B-109",
+      "name": "Yash Vardhan",
+      "gender": "BOY",
+      "chestNumber": 42,
+      "branch": "EE"
+    },
+    {
+      "id": "STU-B-110",
+      "name": "Manish Rawat",
+      "gender": "BOY",
+      "chestNumber": 45,
+      "branch": "CE"
+    },
+    {
+      "id": "STU-B-111",
+      "name": "Kunal Kapoor",
+      "gender": "BOY",
+      "chestNumber": 49,
+      "branch": "Mechanical Engineering"
+    },
+    {
+      "id": "STU-B-112",
+      "name": "Farhan Zaidi",
+      "gender": "BOY",
+      "chestNumber": 52,
+      "branch": "BCA"
+    },
+    {
+      "id": "STU-G-201",
+      "name": "Ananya Iyer",
+      "gender": "GIRL",
+      "chestNumber": 12,
+      "branch": "Computer Science Engineering"
+    },
+    {
+      "id": "STU-G-202",
+      "name": "Pooja Hegde",
+      "gender": "GIRL",
+      "chestNumber": 15,
+      "branch": "CSE"
+    },
+    {
+      "id": "STU-G-203",
+      "name": "Riya Sen",
+      "gender": "GIRL",
+      "chestNumber": 18,
+      "branch": "Electrical Engineering"
+    },
+    {
+      "id": "STU-G-204",
+      "name": "Tanvi Senapati",
+      "gender": "GIRL",
+      "chestNumber": 22,
+      "branch": "BCA"
+    },
+    {
+      "id": "STU-G-205",
+      "name": "Meera Chawla",
+      "gender": "GIRL",
+      "chestNumber": 25,
+      "branch": "Civil Engineering"
+    },
+    {
+      "id": "STU-G-206",
+      "name": "Sneha Kulkarni",
+      "gender": "GIRL",
+      "chestNumber": 30,
+      "branch": "Mechanical Engineering"
+    },
+    {
+      "id": "STU-G-207",
+      "name": "Diya Rastogi",
+      "gender": "GIRL",
+      "chestNumber": 34,
+      "branch": "CSE"
+    },
+    {
+      "id": "STU-G-208",
+      "name": "Ishita Bhattacharya",
+      "gender": "GIRL",
+      "chestNumber": 39,
+      "branch": "Computer Science Engineering"
+    },
+    {
+      "id": "STU-G-209",
+      "name": "Kavya Pillai",
+      "gender": "GIRL",
+      "chestNumber": 43,
+      "branch": "CE"
+    },
+    {
+      "id": "STU-G-210",
+      "name": "Zoya Khan",
+      "gender": "GIRL",
+      "chestNumber": 47,
+      "branch": "EE"
+    },
+    {
+      "id": "STU-G-211",
+      "name": "Simran Walia",
+      "gender": "GIRL",
+      "chestNumber": 51,
+      "branch": "Mechanical Engineering"
+    },
+    {
+      "id": "STU-G-212",
+      "name": "Nandini Joshi",
+      "gender": "GIRL",
+      "chestNumber": 55,
+      "branch": "BCA"
+    }
+  ],
+  "boyNominationSlots": [
+    "STU-B-101",
+    "STU-B-102",
+    "STU-B-103",
+    "STU-B-104",
+    "STU-B-105",
+    "STU-B-106",
+    "STU-B-107",
+    "STU-B-108"
+  ],
+  "girlNominationSlots": [
+    "STU-G-201",
+    "STU-G-202",
+    "STU-G-203",
+    "STU-G-204",
+    "STU-G-205",
+    "STU-G-206",
+    "STU-G-207",
+    "STU-G-208"
+  ],
+  "round1Finalized": true,
+  "round2Scores": {
+    "judge1_STU-B-101": {
+      "judgeId": "judge1",
+      "studentId": "STU-B-101",
+      "score": 100,
+      "updatedAt": "2026-09-29T01:53:47.591Z"
+    }
+  },
+  "eliminatedStudentIds": [],
+  "round2TieResolutions": {},
+  "titleTieResolutions": {},
+  "votes": [
+    {
+      "voteId": "76b37401-91e2-4894-8c67-c8f7f413ef4e",
+      "normalizedName": "aarav mehta",
+      "branch": "CSE",
+      "deviceFingerprint": "test-dev-1",
+      "boyStudentId": "STU-B-101",
+      "girlStudentId": "STU-G-201",
+      "timestamp": "2026-09-28T18:44:39.061Z"
+    },
+    {
+      "voteId": "0e48ef2b-525e-4a0b-b1cf-050a5c46818d",
+      "normalizedName": "test voter single",
+      "branch": "CSE",
+      "deviceFingerprint": "test_device_1790646827596",
+      "boyStudentId": "STU-B-101",
+      "girlStudentId": "STU-G-201",
+      "timestamp": "2026-09-29T01:53:47.597Z"
+    }
+  ],
+  "usedDevices": [
+    "test-dev-1",
+    "test_device_1790646827596"
+  ],
+  "usedIdentities": [
+    "aarav mehta::cse",
+    "test voter single::cse"
+  ],
+  "projectorScreen": "BOYS_POINTS_TABLE",
+  "auditLogs": [
+    {
+      "timestamp": "2026-09-29T02:09:30.439Z",
+      "action": "Successful login for user 'judge1' with role 'JUDGE'",
+      "user": "judge1"
+    },
+    {
+      "timestamp": "2026-09-29T02:09:30.434Z",
+      "action": "Successful login for user 'admin' with role 'ADMIN'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T02:04:41.840Z",
+      "action": "Successful login for user 'judge1' with role 'JUDGE'",
+      "user": "judge1"
+    },
+    {
+      "timestamp": "2026-09-29T02:04:41.809Z",
+      "action": "Successful login for user 'admin' with role 'ADMIN'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T02:04:24.377Z",
+      "action": "Successful login for user 'judge1' with role 'JUDGE'",
+      "user": "judge1"
+    },
+    {
+      "timestamp": "2026-09-29T02:04:24.356Z",
+      "action": "Successful login for user 'admin' with role 'ADMIN'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:47.595Z",
+      "action": "Admin changed final voting status to 'ACTIVE'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:47.581Z",
+      "action": "Admin switched projector stage screen to 'BOYS_POINTS_TABLE'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:47.575Z",
+      "action": "Admin switched projector stage screen to 'QR_VOTING'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:47.568Z",
+      "action": "Successful login for user 'judge2' with role 'JUDGE'",
+      "user": "judge2"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:47.566Z",
+      "action": "Successful login for user 'judge1' with role 'JUDGE'",
+      "user": "judge1"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:47.561Z",
+      "action": "Successful login for user 'admin' with role 'ADMIN'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:27.868Z",
+      "action": "Admin changed final voting status to 'ACTIVE'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:27.856Z",
+      "action": "Admin switched projector stage screen to 'BOYS_POINTS_TABLE'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:27.849Z",
+      "action": "Admin switched projector stage screen to 'QR_VOTING'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:27.843Z",
+      "action": "Successful login for user 'judge2' with role 'JUDGE'",
+      "user": "judge2"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:27.841Z",
+      "action": "Successful login for user 'judge1' with role 'JUDGE'",
+      "user": "judge1"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:27.835Z",
+      "action": "Successful login for user 'admin' with role 'ADMIN'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:05.143Z",
+      "action": "Admin changed final voting status to 'ACTIVE'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:05.134Z",
+      "action": "Successful login for user 'admin' with role 'ADMIN'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:00.212Z",
+      "action": "Admin changed final voting status to 'ACTIVE'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:00.200Z",
+      "action": "Admin switched projector stage screen to 'BOYS_POINTS_TABLE'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:00.192Z",
+      "action": "Admin switched projector stage screen to 'QR_VOTING'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:00.183Z",
+      "action": "Successful login for user 'judge2' with role 'JUDGE'",
+      "user": "judge2"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:00.181Z",
+      "action": "Successful login for user 'judge1' with role 'JUDGE'",
+      "user": "judge1"
+    },
+    {
+      "timestamp": "2026-09-29T01:53:00.176Z",
+      "action": "Successful login for user 'admin' with role 'ADMIN'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T01:52:19.749Z",
+      "action": "Successful login for user 'judge2' with role 'JUDGE'",
+      "user": "judge2"
+    },
+    {
+      "timestamp": "2026-09-29T01:52:19.746Z",
+      "action": "Successful login for user 'judge1' with role 'JUDGE'",
+      "user": "judge1"
+    },
+    {
+      "timestamp": "2026-09-29T01:52:19.742Z",
+      "action": "Successful login for user 'admin' with role 'ADMIN'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-29T01:51:53.004Z",
+      "action": "Successful login for user 'judge2' with role 'JUDGE'",
+      "user": "judge2"
+    },
+    {
+      "timestamp": "2026-09-29T01:51:52.999Z",
+      "action": "Successful login for user 'judge1' with role 'JUDGE'",
+      "user": "judge1"
+    },
+    {
+      "timestamp": "2026-09-29T01:51:52.992Z",
+      "action": "Successful login for user 'admin' with role 'ADMIN'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-28T18:59:07.062Z",
+      "action": "Successful login for user 'judge1' with role 'JUDGE'",
+      "user": "judge1"
+    },
+    {
+      "timestamp": "2026-09-28T18:59:07.056Z",
+      "action": "Admin UNLOCKED Round 2 scores",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-28T18:59:07.048Z",
+      "action": "Successful login for user 'admin' with role 'ADMIN'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-28T18:58:49.121Z",
+      "action": "Successful login for user 'judge1' with role 'JUDGE'",
+      "user": "judge1"
+    },
+    {
+      "timestamp": "2026-09-28T18:58:49.112Z",
+      "action": "Successful login for user 'admin' with role 'ADMIN'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-28T18:44:34.694Z",
+      "action": "Admin changed final voting status to 'ACTIVE'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-28T18:44:04.575Z",
+      "action": "Successful login for user 'judge1' with role 'JUDGE'",
+      "user": "judge1"
+    },
+    {
+      "timestamp": "2026-09-28T18:43:59.571Z",
+      "action": "Successful login for user 'admin' with role 'ADMIN'",
+      "user": "admin"
+    },
+    {
+      "timestamp": "2026-09-28T18:43:45.484Z",
+      "action": "System initialized with Ramp Walk 2026 standard configuration",
+      "user": "System"
+    }
+  ]
+}
